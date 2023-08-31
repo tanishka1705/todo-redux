@@ -1,7 +1,7 @@
-## Todo List App using React and Redux
+# Todo List App using React and Redux
 This is a simple Todo List application built using React and Redux. It allows users to add, edit and remove tasks. 
 
-# Installation
+## Installation
 1. Clone the repository:
    - git clone https://github.com/tanishka1705/todo-redux.git
 2. Navigate to the project directory:
@@ -9,7 +9,7 @@ This is a simple Todo List application built using React and Redux. It allows us
 3. Install the dependencies
    - npm install
 
-# Usage
+## Usage
 1. Start the development server:
    - npm start
 2. Features : <br />
