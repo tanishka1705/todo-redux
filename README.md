@@ -12,9 +12,9 @@ This is a simple Todo List application built using React and Redux. It allows us
 # Usage
 1. Start the development server:
    - npm start
-2. Features : 
-   Add tasks: Users can easily add new tasks to the list.
-   Edit tasks: Users can edit tasks.
+2. Features : <br />
+   Add tasks: Users can easily add new tasks to the list.<br />
+   Edit tasks: Users can edit tasks.<br />
    Remove tasks: User can delete tasks.
 
 
